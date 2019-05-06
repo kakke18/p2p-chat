@@ -1,3 +1,7 @@
 .id-label {
     font-weight: bold;
 }
+
+button {
+    cursor: pointer;
+}
